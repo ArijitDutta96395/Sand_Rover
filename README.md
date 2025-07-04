@@ -27,8 +27,8 @@ The custom transmitter integrates:
 
 ---
 
-## 📸 Sand Rover With Controller
 <p align="center">
+  ## 📸 Sand Rover With Controller
   <img src="images/img2.png" alt="Sand Rover Robot" width="500">
 </p>
 

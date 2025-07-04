@@ -90,8 +90,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## 🔧 Developed By
 **Arijit Dutta**
-
+📅 **Last Updated:** March 21, 2025
 <p align="center">
   <img src="images/img1.png" alt="My Photo" width="400">
 </p>
-📅 **Last Updated:** March 21, 2025

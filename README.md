@@ -92,6 +92,6 @@ See the [LICENSE](LICENSE) file for more details.
 **Arijit Dutta**
 
 <p align="center">
-  <img src="images/img1.jpg" alt="" width="400">
+  <img src="images/img1.jpg" alt="My Photo" width="400">
 </p>
 📅 **Last Updated:** March 21, 2025

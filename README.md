@@ -26,9 +26,8 @@ The custom transmitter integrates:
 - **3 Buttons** (for extra functions)
 
 ---
-
+## 📸 Sand Rover With Controller
 <p align="center">
-  ## 📸 Sand Rover With Controller
   <img src="images/img2.png" alt="Sand Rover Robot" width="500">
 </p>
 

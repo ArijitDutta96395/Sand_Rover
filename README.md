@@ -89,6 +89,6 @@ See the [LICENSE](LICENSE) file for more details.
 ---
 
 ## 🔧 Developed By
-**Avijit Biswas**
+**Arijit Dutta**
 
 📅 **Last Updated:** March 21, 2025

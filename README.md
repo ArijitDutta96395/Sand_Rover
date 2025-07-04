@@ -1,4 +1,4 @@
-# 🚗 Sand Rover – Semi-Autonomous Robot with Custom 11-Channel Controller
+# 🏎️ Sand Rover – Semi-Autonomous Robot with Custom 11-Channel Controller
 
 <p align="center">
   <a href="LICENSE">

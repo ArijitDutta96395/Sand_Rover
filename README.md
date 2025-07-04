@@ -91,4 +91,7 @@ See the [LICENSE](LICENSE) file for more details.
 ## 🔧 Developed By
 **Arijit Dutta**
 
+<p align="center">
+  <img src="images/img1.jpg" alt="" width="400">
+</p>
 📅 **Last Updated:** March 21, 2025
